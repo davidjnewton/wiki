@@ -2,7 +2,7 @@
   "version": 1,
   "on_air": true,
   "episode_ended": false,
-  "updated_at": 1795546160,
+  "updated_at": 1795546199,
   "tracks": [
     {
       "artist": "Zuccasam",
@@ -21,6 +21,12 @@
       "title": "Hell is Empty (Remixes) (Doug Crawford Remix)",
       "label": "Liquid Lunch",
       "started_at": 1795546160.3955376
+    },
+    {
+      "artist": "Mike Griego",
+      "title": "Mon Amour (Extended Mix)",
+      "label": "Anjunadeep Explorations",
+      "started_at": 1795546199.5680888
     }
   ]
 }
