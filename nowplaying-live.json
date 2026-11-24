@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
-  "updated_at": 1795552020,
+  "on_air": false,
+  "episode_ended": true,
+  "updated_at": 1795552214,
   "tracks": [
     {
       "artist": "ID",
@@ -54,6 +54,7 @@
       "title": "Moss (Original Mix)",
       "label": "All Day I Dream",
       "started_at": 1795552020.5923586,
+      "ended_at": 1795552214.5878503,
       "key": "3B",
       "bpm": 124.0086,
       "deeper_states_play_count": 0,
