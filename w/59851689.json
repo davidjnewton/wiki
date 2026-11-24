@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795550674,
+  "tracks": [
+    {
+      "artist": "ID",
+      "title": "ID",
+      "label": "",
+      "started_at": 1795550672.908888,
+      "key": "8A",
+      "bpm": 121.9756,
+      "deeper_states_play_count": null,
+      "colours": {
+        "key": "#398fe6",
+        "play_count": "#65717b",
+        "artist": "#65717b",
+        "bpm": "#50e680"
+      }
+    }
+  ],
+  "marathon": {
+    "enabled": true,
+    "elapsed_seconds": 611.967679977417,
+    "started_at": null,
+    "colour_mode": "key",
+    "total_hours": 1.0,
+    "target_seconds": 3600.0
+  }
+}
