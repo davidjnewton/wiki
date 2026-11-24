@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "on_air": false,
-  "episode_ended": true,
-  "updated_at": 1795537130,
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795537140,
   "tracks": []
 }
