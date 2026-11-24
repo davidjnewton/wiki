@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "on_air": true,
+  "updated_at": 1795531881,
+  "tracks": [
+    {
+      "artist": "Aaron Suiss",
+      "title": "Withdraw (Original Mix)",
+      "started_at": 1795531849.0636184
+    },
+    {
+      "artist": "Aaron Suiss",
+      "title": "Stimulations (Weird Sounding Dude Remix)",
+      "started_at": 1795531881.076388
+    }
+  ]
+}
