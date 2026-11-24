@@ -2,6 +2,12 @@
   "version": 1,
   "on_air": true,
   "episode_ended": false,
-  "updated_at": 1795537140,
-  "tracks": []
+  "updated_at": 1795537174,
+  "tracks": [
+    {
+      "artist": "Abaze",
+      "title": "Aleteia (Extended Mix)",
+      "started_at": 1795537174.8065126
+    }
+  ]
 }
