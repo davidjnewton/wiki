@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "on_air": false,
+  "episode_ended": true,
+  "updated_at": 1795539701,
+  "tracks": [
+    {
+      "artist": "Bebbo, Annie Sollange",
+      "title": "Resonate (Extended Mix)",
+      "label": "Stereo Productions",
+      "started_at": 1795538623.7646139
+    },
+    {
+      "artist": "Aaron Suiss",
+      "title": "Stimulations (Weird Sounding Dude Remix)",
+      "label": "Movement",
+      "started_at": 1795538941.9104614
+    }
+  ]
+}
