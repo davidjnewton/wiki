@@ -2,7 +2,7 @@
   "version": 1,
   "on_air": true,
   "episode_ended": false,
-  "updated_at": 1795551774,
+  "updated_at": 1795551787,
   "tracks": [
     {
       "artist": "ID",
@@ -17,6 +17,21 @@
         "play_count": "#65717b",
         "artist": "#65717b",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Paul Fakos",
+      "title": "Yejamba (Original Mix)",
+      "label": "Vapour Recordings",
+      "started_at": 1795551786.9081452,
+      "key": "2B",
+      "bpm": 124.0086,
+      "deeper_states_play_count": 12,
+      "colours": {
+        "key": "#e6b27e",
+        "play_count": "#e69b50",
+        "artist": "#50e6c0",
+        "bpm": "#50e674"
       }
     }
   ],
