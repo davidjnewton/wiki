@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "on_air": true,
+  "updated_at": 1795532670,
+  "tracks": [
+    {
+      "artist": "Aaron Suiss",
+      "title": "Stimulations (Weird Sounding Dude Remix)",
+      "started_at": 1795532398.3355863
+    },
+    {
+      "artist": "Abaze",
+      "title": "Aleteia (Extended Mix)",
+      "started_at": 1795532591.4035194
+    }
+  ]
+}
