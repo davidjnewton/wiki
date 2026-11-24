@@ -1,71 +1,9 @@
 {
   "version": 1,
-  "on_air": false,
-  "episode_ended": true,
-  "updated_at": 1795552214,
-  "tracks": [
-    {
-      "artist": "ID",
-      "title": "ID",
-      "label": "",
-      "started_at": 1795551769.4614785,
-      "key": "8A",
-      "bpm": 121.9756,
-      "deeper_states_play_count": null,
-      "colours": {
-        "key": "#398fe6",
-        "play_count": "#65717b",
-        "artist": "#65717b",
-        "bpm": "#50e680"
-      }
-    },
-    {
-      "artist": "Paul Fakos",
-      "title": "Yejamba (Original Mix)",
-      "label": "Vapour Recordings",
-      "started_at": 1795551786.9081452,
-      "key": "2B",
-      "bpm": 124.0086,
-      "deeper_states_play_count": 12,
-      "colours": {
-        "key": "#e6b27e",
-        "play_count": "#e69b50",
-        "artist": "#50e6c0",
-        "bpm": "#50e674"
-      }
-    },
-    {
-      "artist": "Jamie Stevens, Skye",
-      "title": "Calling All the Gods (AGV) (David J Newton Remix)",
-      "label": "",
-      "started_at": 1795551804.0510674,
-      "key": "6A",
-      "bpm": 118.9762,
-      "deeper_states_play_count": 0,
-      "colours": {
-        "key": "#39e68f",
-        "play_count": "#509be6",
-        "artist": "#6250e6",
-        "bpm": "#50e692"
-      }
-    },
-    {
-      "artist": "Tim Green, Swoof",
-      "title": "Moss (Original Mix)",
-      "label": "All Day I Dream",
-      "started_at": 1795552020.5923586,
-      "ended_at": 1795552214.5878503,
-      "key": "3B",
-      "bpm": 124.0086,
-      "deeper_states_play_count": 0,
-      "colours": {
-        "key": "#e6e67e",
-        "play_count": "#509be6",
-        "artist": "#50e671",
-        "bpm": "#50e674"
-      }
-    }
-  ],
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795552709,
+  "tracks": [],
   "marathon": {
     "enabled": true,
     "elapsed_seconds": 0.0,
