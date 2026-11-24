@@ -2,7 +2,7 @@
   "version": 1,
   "on_air": false,
   "episode_ended": true,
-  "updated_at": 1795548976,
+  "updated_at": 1795548979,
   "tracks": [
     {
       "artist": "ID",
@@ -18,7 +18,7 @@
     }
   ],
   "marathon": {
-    "enabled": false,
+    "enabled": true,
     "elapsed_seconds": 611.967679977417,
     "started_at": null,
     "target_seconds": 129600
