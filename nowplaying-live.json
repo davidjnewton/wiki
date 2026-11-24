@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "on_air": true,
+  "on_air": false,
   "episode_ended": false,
-  "updated_at": 1795546199,
+  "updated_at": 1795546230,
   "tracks": [
     {
       "artist": "Zuccasam",

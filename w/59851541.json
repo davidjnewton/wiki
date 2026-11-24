@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "on_air": false,
+  "episode_ended": false,
+  "updated_at": 1795546230,
+  "tracks": [
+    {
+      "artist": "Zuccasam",
+      "title": "Twisto (Original Mix)",
+      "label": "Plastic Fantastic",
+      "started_at": 1795545640.3615546
+    },
+    {
+      "artist": "Aaron Suiss",
+      "title": "Stimulations (Weird Sounding Dude Remix)",
+      "label": "Movement",
+      "started_at": 1795546057.5591257
+    },
+    {
+      "artist": "Ryn Kalos",
+      "title": "Hell is Empty (Remixes) (Doug Crawford Remix)",
+      "label": "Liquid Lunch",
+      "started_at": 1795546160.3955376
+    },
+    {
+      "artist": "Mike Griego",
+      "title": "Mon Amour (Extended Mix)",
+      "label": "Anjunadeep Explorations",
+      "started_at": 1795546199.5680888
+    }
+  ]
+}
