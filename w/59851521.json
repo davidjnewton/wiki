@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795545642,
+  "tracks": [
+    {
+      "artist": "Zuccasam",
+      "title": "Twisto (Original Mix)",
+      "label": "Plastic Fantastic",
+      "started_at": 1795545640.3615546
+    }
+  ]
+}

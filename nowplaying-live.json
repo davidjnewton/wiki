@@ -1,20 +1,14 @@
 {
   "version": 1,
-  "on_air": false,
-  "episode_ended": true,
-  "updated_at": 1795540661,
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795545642,
   "tracks": [
     {
-      "artist": "Bebbo, Annie Sollange",
-      "title": "Resonate (Extended Mix)",
-      "label": "Stereo Productions",
-      "started_at": 1795538623.7646139
-    },
-    {
-      "artist": "Aaron Suiss",
-      "title": "Stimulations (Weird Sounding Dude Remix)",
-      "label": "Movement",
-      "started_at": 1795538941.9104614
+      "artist": "Zuccasam",
+      "title": "Twisto (Original Mix)",
+      "label": "Plastic Fantastic",
+      "started_at": 1795545640.3615546
     }
   ]
 }
