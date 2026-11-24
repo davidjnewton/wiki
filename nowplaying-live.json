@@ -1,15 +1,14 @@
 {
   "version": 1,
-  "on_air": false,
-  "episode_ended": true,
-  "updated_at": 1795552834,
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795552836,
   "tracks": [
     {
       "artist": "ID",
       "title": "ID",
       "label": "",
       "started_at": 1795552827.3151705,
-      "ended_at": 1795552834.378494,
       "key": "6A",
       "bpm": 118.9762,
       "deeper_states_play_count": null,
