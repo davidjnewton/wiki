@@ -1,1 +1,6 @@
-{"version": 1, "on_air": false, "updated_at": 0, "tracks": []}
+{
+  "version": 1,
+  "on_air": true,
+  "updated_at": 1795531764,
+  "tracks": []
+}
