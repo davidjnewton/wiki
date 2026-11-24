@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "on_air": true,
+  "updated_at": 1795529820,
+  "tracks": [
+    {
+      "artist": "Jamie Stevens",
+      "title": "Transference (David J Newton Remix)",
+      "started_at": 1795529740.0855281
+    },
+    {
+      "artist": "David J Newton",
+      "title": "Black Rain",
+      "started_at": 1795529740.0895755
+    },
+    {
+      "artist": "Oscar Rosmano",
+      "title": "Lua (David J Newton Remix)",
+      "started_at": 1795529740.0936346
+    },
+    {
+      "artist": "David J Newton",
+      "title": "Voyage",
+      "started_at": 1795529740.0976999
+    },
+    {
+      "artist": "Vex",
+      "title": "Aisha (David J Newton Remix)",
+      "started_at": 1795529740.1022508
+    },
+    {
+      "artist": "David J Newton",
+      "title": "Desire Path",
+      "started_at": 1795529740.1052847
+    },
+    {
+      "artist": "Lucho Bragagnolo",
+      "title": "I Feel Lost (David J Newton Remix)",
+      "started_at": 1795529740.109341
+    },
+    {
+      "artist": "David J Newton",
+      "title": "Halo",
+      "started_at": 1795529740.1134064
+    }
+  ]
+}
