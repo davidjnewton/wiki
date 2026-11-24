@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "on_air": false,
+  "episode_ended": true,
+  "updated_at": 1795548976,
+  "tracks": [
+    {
+      "artist": "ID",
+      "title": "ID",
+      "label": "",
+      "started_at": 1795548335.7878845
+    },
+    {
+      "artist": "Paul Fakos",
+      "title": "Yejamba (Original Mix)",
+      "label": "Vapour Recordings",
+      "started_at": 1795548507.596115
+    }
+  ],
+  "marathon": {
+    "enabled": false,
+    "elapsed_seconds": 611.967679977417,
+    "started_at": null,
+    "target_seconds": 129600
+  }
+}
