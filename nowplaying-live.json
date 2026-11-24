@@ -1,18 +1,13 @@
 {
   "version": 1,
-  "on_air": false,
-  "episode_ended": true,
-  "updated_at": 1795537884,
+  "on_air": true,
+  "episode_ended": false,
+  "updated_at": 1795538737,
   "tracks": [
     {
-      "artist": "Abaze",
-      "title": "Aleteia (Extended Mix)",
-      "started_at": 1795537174.8065126
-    },
-    {
-      "artist": "Aaron Suiss",
-      "title": "Stimulations (Weird Sounding Dude Remix)",
-      "started_at": 1795537420.907207
+      "artist": "Bebbo, Annie Sollange",
+      "title": "Resonate (Extended Mix)",
+      "started_at": 1795538623.7646139
     }
   ]
 }
