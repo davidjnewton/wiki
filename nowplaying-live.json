@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
-  "updated_at": 1795548587,
+  "on_air": false,
+  "episode_ended": true,
+  "updated_at": 1795548876,
   "tracks": [
     {
       "artist": "ID",
