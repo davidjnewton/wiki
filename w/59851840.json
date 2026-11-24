@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
+  "on_air": false,
+  "episode_ended": true,
   "episode_title": "DEEPER STATES EPISODE #440",
-  "updated_at": 1795554768,
+  "updated_at": 1795555222,
   "tracks": [
     {
       "artist": "ID",
@@ -85,6 +85,7 @@
       "title": "Pilgrimage EP (Finding Our Way (Original Mix))",
       "label": "Pro-B-Tech Records",
       "started_at": 1795554659.4462242,
+      "ended_at": 1795555222.2530043,
       "key": "4B",
       "bpm": 125.0168,
       "deeper_states_play_count": 5,
