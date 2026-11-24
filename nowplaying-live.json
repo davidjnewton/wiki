@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
-  "updated_at": 1795537027,
+  "on_air": false,
+  "episode_ended": true,
+  "updated_at": 1795537029,
   "tracks": [
     {
       "artist": "Abaze",
