@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
+  "on_air": false,
+  "episode_ended": true,
   "episode_title": "DEEPER STATES EPISODE #440",
-  "updated_at": 1795591302,
+  "updated_at": 1795593753,
   "tracks": [
     {
       "artist": "Tysher",
@@ -190,6 +190,7 @@
       "title": "Glory Days (David J Newton Remix)",
       "label": "Future Avenue",
       "started_at": 1795591302.8870442,
+      "ended_at": 1795593753.6075585,
       "key": "10B",
       "bpm": 123.00859999999999,
       "deeper_states_play_count": 0,
