@@ -1,10 +1,9 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
+  "on_air": false,
+  "episode_ended": true,
   "episode_title": "DEEPER STATES EPISODE #441",
-  "episode_started_at": 1795596744.384791,
-  "updated_at": 1795596745,
+  "updated_at": 1795597202,
   "tracks": [],
   "marathon": {
     "enabled": true,
