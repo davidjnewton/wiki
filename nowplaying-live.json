@@ -3,7 +3,7 @@
   "on_air": false,
   "episode_ended": true,
   "episode_title": "DEEPER STATES EPISODE #440",
-  "updated_at": 1795587435,
+  "updated_at": 1795587447,
   "tracks": [
     {
       "artist": "Tysher",
@@ -25,7 +25,7 @@
   "marathon": {
     "enabled": true,
     "elapsed_seconds": 0.0,
-    "started_at": 1795552818.9035969,
+    "started_at": null,
     "colour_mode": "play_count",
     "total_hours": 1.0,
     "target_seconds": 3600.0
