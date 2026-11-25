@@ -3,7 +3,7 @@
   "on_air": true,
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #440",
-  "updated_at": 1795587740,
+  "updated_at": 1795587879,
   "tracks": [
     {
       "artist": "Tysher",
@@ -17,6 +17,21 @@
         "key": "#39e6e6",
         "play_count": "#24f2d2",
         "artist": "#e6b150",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Serge Canteros",
+      "title": "Sublime (Emmanuel Dip Remix)",
+      "label": "Sincity",
+      "started_at": 1795587879.6945045,
+      "key": "7A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#2424f2",
+        "artist": "#e650a7",
         "bpm": "#50e680"
       }
     }
