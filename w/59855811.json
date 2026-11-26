@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795673987,
+  "updated_at": 1795674341,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -33,6 +33,21 @@
         "key": "#b27ee6",
         "play_count": "#2424f2",
         "artist": "#50e676",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Univ3rse (sL)",
+      "title": "Guardian Wolf (Extended Mix)",
+      "label": "Skytop",
+      "started_at": 1795674341.2450483,
+      "key": "10B",
+      "bpm": 122.0,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#2424f2",
+        "artist": "#a050e6",
         "bpm": "#50e680"
       }
     }
