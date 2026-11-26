@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795674341,
+  "updated_at": 1795674638,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -49,6 +49,21 @@
         "play_count": "#2424f2",
         "artist": "#a050e6",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Trevor Rose, Laura Rose",
+      "title": "Sharp Mood (Original Mix)",
+      "label": "Zero Tolerance",
+      "started_at": 1795674638.3212445,
+      "key": "10A",
+      "bpm": 122.9832,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#50e655",
+        "bpm": "#50e67a"
       }
     }
   ],
