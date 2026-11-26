@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795675483,
+  "updated_at": 1795675787,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -108,6 +108,21 @@
         "key": "#8f39e6",
         "play_count": "#2424f2",
         "artist": "#505ae6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Hot Tuneik & Amber Long",
+      "title": "Peace Within",
+      "label": "Mango Alley",
+      "started_at": 1795675787.7658243,
+      "key": "10A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f247",
+        "artist": "#67e650",
         "bpm": "#50e67a"
       }
     }
