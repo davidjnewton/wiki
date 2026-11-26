@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795675787,
+  "updated_at": 1795676163,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -124,6 +124,21 @@
         "play_count": "#24f247",
         "artist": "#67e650",
         "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Tato Seco & Ignacio Hern\u00e1ndez",
+      "title": "Sleepwalker (Manu Pavez Remix)",
+      "label": "Mango Alley",
+      "started_at": 1795676163.898593,
+      "key": "10A",
+      "bpm": 121.975,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f247",
+        "artist": "#c550e6",
+        "bpm": "#50e680"
       }
     }
   ],
