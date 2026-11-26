@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795674638,
+  "updated_at": 1795674920,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -63,6 +63,21 @@
         "key": "#8f39e6",
         "play_count": "#2424f2",
         "artist": "#50e655",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Ivan Aliaga",
+      "title": "Revenant",
+      "label": "Mango Alley",
+      "started_at": 1795674920.3649335,
+      "key": "10A",
+      "bpm": 122.9844,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f2d2",
+        "artist": "#e66950",
         "bpm": "#50e67a"
       }
     }
