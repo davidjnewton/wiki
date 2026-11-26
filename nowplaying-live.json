@@ -4,8 +4,24 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795673817,
-  "tracks": [],
+  "updated_at": 1795673851,
+  "tracks": [
+    {
+      "artist": "Vote For Pedro",
+      "title": "Glory Days (David J Newton Remix)",
+      "label": "Future Avenue",
+      "started_at": 1795673851.1044362,
+      "key": "10B",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#24f2d2",
+        "artist": "#e69850",
+        "bpm": "#50e680"
+      }
+    }
+  ],
   "marathon": {
     "enabled": true,
     "elapsed_seconds": 0.0,
