@@ -1,0 +1,198 @@
+{
+  "version": 1,
+  "on_air": true,
+  "episode_ended": false,
+  "episode_title": "DEEPER STATES EPISODE #441",
+  "episode_started_at": 1795673814.0304596,
+  "updated_at": 1795676923,
+  "tracks": [
+    {
+      "artist": "Vote For Pedro",
+      "title": "Glory Days (David J Newton Remix)",
+      "label": "Future Avenue",
+      "started_at": 1795673851.1044362,
+      "key": "10B",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#24f2d2",
+        "artist": "#e69850",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Pablo German",
+      "title": "Forja Rush",
+      "label": "Mango Alley",
+      "started_at": 1795673987.139553,
+      "key": "10B",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#2424f2",
+        "artist": "#50e676",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Univ3rse (sL)",
+      "title": "Guardian Wolf (Extended Mix)",
+      "label": "Skytop",
+      "started_at": 1795674341.2450483,
+      "key": "10B",
+      "bpm": 122.0,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#2424f2",
+        "artist": "#a050e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Trevor Rose, Laura Rose",
+      "title": "Sharp Mood (Original Mix)",
+      "label": "Zero Tolerance",
+      "started_at": 1795674638.3212445,
+      "key": "10A",
+      "bpm": 122.9832,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#50e655",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Ivan Aliaga",
+      "title": "Revenant",
+      "label": "Mango Alley",
+      "started_at": 1795674920.3649335,
+      "key": "10A",
+      "bpm": 122.9844,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f2d2",
+        "artist": "#e66950",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Kris Dur",
+      "title": "Submotion (Original Mix)",
+      "label": "Manual Deep",
+      "started_at": 1795675225.5526748,
+      "key": "10A",
+      "bpm": 122.9844,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#50e693",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Dowden, Mayro",
+      "title": "Spiritland (Original Mix)",
+      "label": "Gemini Sounds",
+      "started_at": 1795675483.664522,
+      "key": "10A",
+      "bpm": 122.9844,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#505ae6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Hot Tuneik & Amber Long",
+      "title": "Peace Within",
+      "label": "Mango Alley",
+      "started_at": 1795675787.7658243,
+      "key": "10A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f247",
+        "artist": "#67e650",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Tato Seco & Ignacio Hern\u00e1ndez",
+      "title": "Sleepwalker (Manu Pavez Remix)",
+      "label": "Mango Alley",
+      "started_at": 1795676163.898593,
+      "key": "10A",
+      "bpm": 121.975,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f247",
+        "artist": "#c550e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Cary Crank, SHERRNX",
+      "title": "Inner Groove (Redspace Extended Remix)",
+      "label": "Univack",
+      "started_at": 1795676416.9785442,
+      "key": "10A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#50e6cf",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Digital Mess",
+      "title": "Fury Fur",
+      "label": "Mango Alley",
+      "started_at": 1795676691.043378,
+      "key": "10A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#5080e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Tato Seco & Ignacio Hern\u00e1ndez",
+      "title": "Sleepwalker",
+      "label": "Mango Alley",
+      "started_at": 1795676923.1300683,
+      "key": "10A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#c550e6",
+        "bpm": "#50e680"
+      }
+    }
+  ],
+  "marathon": {
+    "enabled": true,
+    "elapsed_seconds": 0.0,
+    "started_at": 1795673817.5206738,
+    "colour_mode": "play_count",
+    "total_hours": 1.0,
+    "target_seconds": 3600.0
+  }
+}
