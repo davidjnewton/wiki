@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795673851,
+  "updated_at": 1795673987,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -18,6 +18,21 @@
         "key": "#b27ee6",
         "play_count": "#24f2d2",
         "artist": "#e69850",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Pablo German",
+      "title": "Forja Rush",
+      "label": "Mango Alley",
+      "started_at": 1795673987.139553,
+      "key": "10B",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#2424f2",
+        "artist": "#50e676",
         "bpm": "#50e680"
       }
     }
