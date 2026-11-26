@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #441",
   "episode_started_at": 1795673814.0304596,
-  "updated_at": 1795676923,
+  "updated_at": 1795677219,
   "tracks": [
     {
       "artist": "Vote For Pedro",
@@ -184,6 +184,21 @@
         "play_count": "#2424f2",
         "artist": "#c550e6",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Emmanuel Dip",
+      "title": "Kraken",
+      "label": "Mango Alley",
+      "started_at": 1795677219.761028,
+      "key": "10A",
+      "bpm": 120.97359999999999,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#2424f2",
+        "artist": "#5550e6",
+        "bpm": "#50e686"
       }
     }
   ],
