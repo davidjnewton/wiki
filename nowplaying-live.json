@@ -1,10 +1,9 @@
 {
   "version": 1,
-  "on_air": true,
-  "episode_ended": false,
+  "on_air": false,
+  "episode_ended": true,
   "episode_title": "DEEPER STATES EPISODE #442",
-  "episode_started_at": 1795759568.8224127,
-  "updated_at": 1795759569,
+  "updated_at": 1795759573,
   "tracks": [],
   "marathon": {
     "enabled": true,
