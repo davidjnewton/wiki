@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "on_air": false,
+  "on_air": true,
   "episode_ended": false,
   "episode_started_at": 1000,
-  "updated_at": 1795767095,
+  "updated_at": 1795767126,
   "tracks": [],
   "marathon": {
     "enabled": false,
