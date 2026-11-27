@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #442",
   "episode_started_at": 1795760350.4126058,
-  "updated_at": 1795761631,
+  "updated_at": 1795762027,
   "tracks": [
     {
       "artist": "The Wash",
@@ -93,6 +93,21 @@
         "key": "#e67e7e",
         "play_count": "#2424f2",
         "artist": "#a250e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Enzo Paradiso",
+      "title": "Kaz (Original Mix)",
+      "label": "Balkan Connection",
+      "started_at": 1795762027.6261578,
+      "key": "1A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#e63939",
+        "play_count": "#b1f224",
+        "artist": "#e65f50",
         "bpm": "#50e680"
       }
     }
