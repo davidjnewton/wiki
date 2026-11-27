@@ -4,8 +4,24 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #443",
   "episode_started_at": 1795812678.129923,
-  "updated_at": 1795812812,
-  "tracks": [],
+  "updated_at": 1795812829,
+  "tracks": [
+    {
+      "artist": "Cendryma",
+      "title": "Point Capricorn (Original Mix)",
+      "label": "Onedotsixtwo",
+      "started_at": 1795812829.3351812,
+      "key": "2A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#65f224",
+        "artist": "#7be650",
+        "bpm": "#50e680"
+      }
+    }
+  ],
   "marathon": {
     "enabled": true,
     "elapsed_seconds": 0.0,
