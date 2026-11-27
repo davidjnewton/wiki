@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #442",
   "episode_started_at": 1795760350.4126058,
-  "updated_at": 1795762385,
+  "updated_at": 1795762718,
   "tracks": [
     {
       "artist": "The Wash",
@@ -123,6 +123,21 @@
         "key": "#b2e67e",
         "play_count": "#24f2d2",
         "artist": "#6ee650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Patch Park",
+      "title": "Runner",
+      "label": "Mango Alley",
+      "started_at": 1795762718.8733246,
+      "key": "4A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#e650d2",
         "bpm": "#50e680"
       }
     }
