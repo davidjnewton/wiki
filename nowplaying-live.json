@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #442",
   "episode_started_at": 1795760350.4126058,
-  "updated_at": 1795761381,
+  "updated_at": 1795761631,
   "tracks": [
     {
       "artist": "The Wash",
@@ -78,6 +78,21 @@
         "key": "#e67e7e",
         "play_count": "#2424f2",
         "artist": "#50e3e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Dimuth K & Berni Turletti",
+      "title": "Tejomaya",
+      "label": "Mango Alley",
+      "started_at": 1795761631.7040455,
+      "key": "1B",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#e67e7e",
+        "play_count": "#2424f2",
+        "artist": "#a250e6",
         "bpm": "#50e680"
       }
     }
