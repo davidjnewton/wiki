@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #442",
   "episode_started_at": 1795760350.4126058,
-  "updated_at": 1795762027,
+  "updated_at": 1795762385,
   "tracks": [
     {
       "artist": "The Wash",
@@ -108,6 +108,21 @@
         "key": "#e63939",
         "play_count": "#b1f224",
         "artist": "#e65f50",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Solis [US]",
+      "title": "Ascendant (Extended Mix)",
+      "label": "Univack",
+      "started_at": 1795762385.763949,
+      "key": "4B",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#b2e67e",
+        "play_count": "#24f2d2",
+        "artist": "#6ee650",
         "bpm": "#50e680"
       }
     }
