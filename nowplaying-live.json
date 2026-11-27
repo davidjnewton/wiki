@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #442",
   "episode_started_at": 1795760350.4126058,
-  "updated_at": 1795763345,
+  "updated_at": 1795763690,
   "tracks": [
     {
       "artist": "The Wash",
@@ -169,6 +169,21 @@
         "play_count": "#2424f2",
         "artist": "#5fe650",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Sean Harvey, Four Candles",
+      "title": "Stairway (Four Candles Sunrise In Ibiza Remix)",
+      "label": "Keep Thinking",
+      "started_at": 1795763690.242889,
+      "key": "7B",
+      "bpm": 123.0,
+      "deeper_states_play_count": 5,
+      "colours": {
+        "key": "#7ee6e6",
+        "play_count": "#f0f224",
+        "artist": "#50e6e1",
+        "bpm": "#50e67a"
       }
     }
   ],
