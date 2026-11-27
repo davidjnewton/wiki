@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #443",
   "episode_started_at": 1795812862.317997,
-  "updated_at": 1795812863,
+  "updated_at": 1795812881,
   "tracks": [
     {
       "artist": "Cendryma",
@@ -18,6 +18,21 @@
         "key": "#e68f39",
         "play_count": "#65f224",
         "artist": "#7be650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Michael A",
+      "title": "Infusion (Original Mix)",
+      "label": "Genesis Music",
+      "started_at": 1795812881.2489874,
+      "key": "7A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#24f2d2",
+        "artist": "#508ee6",
         "bpm": "#50e680"
       }
     }
