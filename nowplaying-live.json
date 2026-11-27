@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE #442",
   "episode_started_at": 1795760350.4126058,
-  "updated_at": 1795763067,
+  "updated_at": 1795763345,
   "tracks": [
     {
       "artist": "The Wash",
@@ -153,6 +153,21 @@
         "key": "#8fe639",
         "play_count": "#2424f2",
         "artist": "#508ee6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Mayro",
+      "title": "Riser (Original Mix)",
+      "label": "Sprout",
+      "started_at": 1795763345.1030827,
+      "key": "4A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#2424f2",
+        "artist": "#5fe650",
         "bpm": "#50e680"
       }
     }
