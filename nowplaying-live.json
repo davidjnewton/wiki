@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795887856,
+  "updated_at": 1795888078,
   "tracks": [
     {
       "artist": "ID",
@@ -2088,6 +2088,21 @@
         "key": "#3939e6",
         "play_count": "#f0f224",
         "artist": "#50c3e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Martin Valencia",
+      "title": "On Dancing (Extended Mix)",
+      "label": "Try To Find Sound",
+      "started_at": 1795888078.941652,
+      "key": "9A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 7,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#f29224",
+        "artist": "#d9e650",
         "bpm": "#50e680"
       }
     }
