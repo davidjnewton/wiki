@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795891409,
+  "updated_at": 1795891703,
   "tracks": [
     {
       "artist": "ID",
@@ -2283,6 +2283,21 @@
         "key": "#8fe639",
         "play_count": "#24f247",
         "artist": "#e65087",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Manu Pavez",
+      "title": "Noisy Silences [Sound Avenue]",
+      "label": "Sound Avenue",
+      "started_at": 1795891703.313224,
+      "key": "4A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#e650a5",
         "bpm": "#50e680"
       }
     }
