@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795872513,
+  "updated_at": 1795872876,
   "tracks": [
     {
       "artist": "ID",
@@ -1279,6 +1279,21 @@
         "play_count": "#24f2d2",
         "artist": "#7350e6",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Luke Brancaccio, Gai Barone, Kiki Cave",
+      "title": "All I Need (Deep Mix)",
+      "label": "Music To Die For",
+      "started_at": 1795872876.264902,
+      "key": "6A",
+      "bpm": 120.9754,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#b1f224",
+        "artist": "#50e6c8",
+        "bpm": "#50e686"
       }
     }
   ],
