@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795871991,
+  "updated_at": 1795872231,
   "tracks": [
     {
       "artist": "ID",
@@ -1248,6 +1248,21 @@
         "key": "#7ee67e",
         "play_count": "#65f224",
         "artist": "#cf50e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Ric Niels",
+      "title": "Pirate (Original Mix)",
+      "label": "Proportion",
+      "started_at": 1795872231.2033603,
+      "key": "5A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#24f247",
+        "artist": "#a050e6",
         "bpm": "#50e67a"
       }
     }
