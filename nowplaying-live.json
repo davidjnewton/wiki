@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795880650,
+  "updated_at": 1795880998,
   "tracks": [
     {
       "artist": "ID",
@@ -1713,6 +1713,21 @@
         "key": "#3939e6",
         "play_count": "#f2c024",
         "artist": "#e150e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Moodfreak, Ev Rymd",
+      "title": "Ignite (Original Mix)",
+      "label": "languages music",
+      "started_at": 1795880998.1605577,
+      "key": "9A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 12,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#f22424",
+        "artist": "#e650e3",
         "bpm": "#50e680"
       }
     }
