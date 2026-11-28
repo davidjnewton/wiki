@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795896257,
+  "updated_at": 1795896659,
   "tracks": [
     {
       "artist": "ID",
@@ -2538,6 +2538,36 @@
         "key": "#8fe639",
         "play_count": "#24f247",
         "artist": "#50e67b",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Approximate",
+      "title": "The Myth of the Celestial Garden (Original Mix)",
+      "label": "Massive Harmony Records",
+      "started_at": 1795896419.86833,
+      "key": "4A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#5053e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Joe Mattei, Danny Bonnici, Jamie Stevens",
+      "title": "Underpass (Jamie Stevens Remix)",
+      "label": "Ugenius Music",
+      "started_at": 1795896659.9017363,
+      "key": "4A",
+      "bpm": 123.0,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#2424f2",
+        "artist": "#c050e6",
         "bpm": "#50e67a"
       }
     }
