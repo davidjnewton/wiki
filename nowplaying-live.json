@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795861409,
+  "updated_at": 1795861754,
   "tracks": [
     {
       "artist": "ID",
@@ -708,6 +708,21 @@
         "key": "#398fe6",
         "play_count": "#f24524",
         "artist": "#50e6e1",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Talal",
+      "title": "Lifeline (Original Mix)",
+      "label": "JOOF Aura",
+      "started_at": 1795861754.0693455,
+      "key": "8A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#398fe6",
+        "play_count": "#b1f224",
+        "artist": "#50e6b4",
         "bpm": "#50e680"
       }
     }
