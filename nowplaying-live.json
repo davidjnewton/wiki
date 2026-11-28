@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795870536,
+  "updated_at": 1795870761,
   "tracks": [
     {
       "artist": "ID",
@@ -1173,6 +1173,21 @@
         "key": "#e68f39",
         "play_count": "#24f2d2",
         "artist": "#5080e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Alexic Rod",
+      "title": "Sunset (Original Mix)",
+      "label": "Awen Records",
+      "started_at": 1795870761.043633,
+      "key": "2A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#24f247",
+        "artist": "#50e6af",
         "bpm": "#50e67a"
       }
     }
