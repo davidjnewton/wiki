@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795879879,
+  "updated_at": 1795880170,
   "tracks": [
     {
       "artist": "ID",
@@ -1668,6 +1668,21 @@
         "key": "#39e68f",
         "play_count": "#24f2d2",
         "artist": "#e66e50",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "ID",
+      "title": "ID",
+      "label": "",
+      "started_at": 1795880170.0643961,
+      "key": "9B",
+      "bpm": 122.0,
+      "deeper_states_play_count": null,
+      "colours": {
+        "key": "#7e7ee6",
+        "play_count": "#65717b",
+        "artist": "#65717b",
         "bpm": "#50e680"
       }
     }
