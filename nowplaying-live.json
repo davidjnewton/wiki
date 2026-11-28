@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795857334,
+  "updated_at": 1795857598,
   "tracks": [
     {
       "artist": "ID",
@@ -498,6 +498,21 @@
         "key": "#8fe639",
         "play_count": "#24f247",
         "artist": "#9850e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Eko Centrik",
+      "title": "Inside (Original Mix)",
+      "label": "Balance Music",
+      "started_at": 1795857598.6431394,
+      "key": "5A",
+      "bpm": 121.975,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#65f224",
+        "artist": "#50e6c5",
         "bpm": "#50e680"
       }
     }
