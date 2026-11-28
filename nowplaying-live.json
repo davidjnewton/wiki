@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795879290,
+  "updated_at": 1795879582,
   "tracks": [
     {
       "artist": "ID",
@@ -1638,6 +1638,21 @@
         "key": "#39e68f",
         "play_count": "#24f2d2",
         "artist": "#e650d2",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Gai Barone, Cary Crank",
+      "title": "You Are Becoming (Michael A Remix)",
+      "label": "Sunexplosion",
+      "started_at": 1795879582.0058346,
+      "key": "6A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f247",
+        "artist": "#e6be50",
         "bpm": "#50e680"
       }
     }
