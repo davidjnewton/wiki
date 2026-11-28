@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795865072,
+  "updated_at": 1795865345,
   "tracks": [
     {
       "artist": "ID",
@@ -888,6 +888,21 @@
         "key": "#39e6e6",
         "play_count": "#65717b",
         "artist": "#65717b",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Guy J",
+      "title": "Piece of Cake",
+      "label": "Early Morning",
+      "started_at": 1795865345.461707,
+      "key": "7A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#24f247",
+        "artist": "#e67650",
         "bpm": "#50e67a"
       }
     }
