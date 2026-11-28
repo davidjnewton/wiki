@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795857037,
+  "updated_at": 1795857334,
   "tracks": [
     {
       "artist": "ID",
@@ -483,6 +483,21 @@
         "key": "#8fe639",
         "play_count": "#b1f224",
         "artist": "#50e698",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Dowden & Ric Niels",
+      "title": "Coil (MA ADE 007 Version)",
+      "label": "Mango Alley",
+      "started_at": 1795857334.6119373,
+      "key": "4A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f247",
+        "artist": "#9850e6",
         "bpm": "#50e680"
       }
     }
