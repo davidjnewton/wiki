@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795856011,
+  "updated_at": 1795856335,
   "tracks": [
     {
       "artist": "ID",
@@ -438,6 +438,21 @@
         "key": "#8fe639",
         "play_count": "#f2c024",
         "artist": "#e650dc",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Elliot Moriarty, Soul Of Zoo",
+      "title": "Don't Let This End (Soul Of Zoo Remix)",
+      "label": "Plaisirs Sonores Records",
+      "started_at": 1795856335.4820957,
+      "key": "4A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#2424f2",
+        "artist": "#5062e6",
         "bpm": "#50e680"
       }
     }
