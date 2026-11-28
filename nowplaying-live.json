@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795884862,
+  "updated_at": 1795885168,
   "tracks": [
     {
       "artist": "ID",
@@ -1938,6 +1938,21 @@
         "key": "#3939e6",
         "play_count": "#24f2d2",
         "artist": "#cde650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Ben Monday",
+      "title": "Daydream (Streichl Remix)",
+      "label": "3rd Avenue",
+      "started_at": 1795885168.6439002,
+      "key": "10A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8f39e6",
+        "play_count": "#24f2d2",
+        "artist": "#9b50e6",
         "bpm": "#50e680"
       }
     }
