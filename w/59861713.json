@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795851027,
+  "updated_at": 1795851408,
   "tracks": [
     {
       "artist": "ID",
@@ -199,6 +199,21 @@
         "play_count": "#24f247",
         "artist": "#98e650",
         "bpm": "#50e68c"
+      }
+    },
+    {
+      "artist": "Yohai Mor",
+      "title": "Rise Beyond Time (Robert R. Hardy Remix)",
+      "label": "Massive Harmony Records",
+      "started_at": 1795851408.9217443,
+      "key": "3A",
+      "bpm": 120.9996,
+      "deeper_states_play_count": 7,
+      "colours": {
+        "key": "#e6e639",
+        "play_count": "#f29224",
+        "artist": "#e6b450",
+        "bpm": "#50e686"
       }
     }
   ],
