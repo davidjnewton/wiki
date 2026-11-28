@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795875705,
+  "updated_at": 1795875993,
   "tracks": [
     {
       "artist": "ID",
@@ -1443,6 +1443,21 @@
         "key": "#39e68f",
         "play_count": "#24f247",
         "artist": "#a050e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Tomas Briski",
+      "title": "Visions",
+      "label": "Mango Alley",
+      "started_at": 1795875993.5933394,
+      "key": "6A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f2d2",
+        "artist": "#50e687",
         "bpm": "#50e680"
       }
     }
