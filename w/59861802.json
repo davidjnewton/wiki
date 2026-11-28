@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795853803,
+  "updated_at": 1795854076,
   "tracks": [
     {
       "artist": "ID",
@@ -333,6 +333,21 @@
         "key": "#8fe639",
         "play_count": "#b1f224",
         "artist": "#6750e6",
+        "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Haft",
+      "title": "Sleepwalker (Remixe) (Hot Tuneik 6AM Remix)",
+      "label": "Luum",
+      "started_at": 1795854076.2075832,
+      "key": "4A",
+      "bpm": 120.984,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f247",
+        "artist": "#7850e6",
         "bpm": "#50e686"
       }
     }
