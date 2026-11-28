@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795858810,
+  "updated_at": 1795859092,
   "tracks": [
     {
       "artist": "ID",
@@ -573,6 +573,21 @@
         "key": "#39e639",
         "play_count": "#2424f2",
         "artist": "#e68050",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Paul Losev",
+      "title": "Undertaker (Original Mix)",
+      "label": "WTSE",
+      "started_at": 1795859092.7953403,
+      "key": "5A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#24f2d2",
+        "artist": "#e650a7",
         "bpm": "#50e680"
       }
     }
