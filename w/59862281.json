@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795868120,
+  "updated_at": 1795868456,
   "tracks": [
     {
       "artist": "ID",
@@ -1054,6 +1054,21 @@
         "play_count": "#65f224",
         "artist": "#e150e6",
         "bpm": "#50e67d"
+      }
+    },
+    {
+      "artist": "David J Newton",
+      "title": "Black Rain",
+      "label": "Future Avenue",
+      "started_at": 1795868456.7954779,
+      "key": "1A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#e63939",
+        "play_count": "#24f2d2",
+        "artist": "#e6bb50",
+        "bpm": "#50e67a"
       }
     }
   ],
