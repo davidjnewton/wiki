@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795861754,
+  "updated_at": 1795862117,
   "tracks": [
     {
       "artist": "ID",
@@ -723,6 +723,21 @@
         "key": "#398fe6",
         "play_count": "#b1f224",
         "artist": "#50e6b4",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Modd",
+      "title": "Flying Buddha (Original Mix)",
+      "label": "Do Not Sit On The Furniture",
+      "started_at": 1795862117.1086683,
+      "key": "8A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 16,
+      "colours": {
+        "key": "#398fe6",
+        "play_count": "#f22424",
+        "artist": "#e6507b",
         "bpm": "#50e680"
       }
     }
