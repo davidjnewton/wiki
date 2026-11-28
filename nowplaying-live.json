@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795900089,
+  "updated_at": 1795900479,
   "tracks": [
     {
       "artist": "ID",
@@ -2748,6 +2748,21 @@
         "key": "#39e6e6",
         "play_count": "#b1f224",
         "artist": "#8050e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Matt Oliver, Teclas",
+      "title": "Closed Body (Original Mix)",
+      "label": "Univack",
+      "started_at": 1795900479.365082,
+      "key": "7A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 5,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#f0f224",
+        "artist": "#e65550",
         "bpm": "#50e680"
       }
     }
