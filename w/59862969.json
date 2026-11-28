@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795888634,
+  "updated_at": 1795889099,
   "tracks": [
     {
       "artist": "ID",
@@ -2134,6 +2134,36 @@
         "play_count": "#65717b",
         "artist": "#65717b",
         "bpm": "#50e68c"
+      }
+    },
+    {
+      "artist": "Hot Tuneik & Elmo Aoyama",
+      "title": "I Won't Say Goodbye",
+      "label": "Mango Alley",
+      "started_at": 1795888886.024624,
+      "key": "9A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#24f2d2",
+        "artist": "#78e650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Navar, Golan Zocher",
+      "title": "Zoom Out (Remix) (Jamie Stevens Remix)",
+      "label": "Meanwhile",
+      "started_at": 1795889099.043189,
+      "key": "9A",
+      "bpm": 121.94160000000001,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#24f2d2",
+        "artist": "#e65f50",
+        "bpm": "#50e680"
       }
     }
   ],
