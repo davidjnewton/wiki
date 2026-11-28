@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795851408,
+  "updated_at": 1795851717,
   "tracks": [
     {
       "artist": "ID",
@@ -213,6 +213,21 @@
         "key": "#e6e639",
         "play_count": "#f29224",
         "artist": "#e6b450",
+        "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Big Al",
+      "title": "Ete Indien (Original Mix)",
+      "label": "Sonic Safari",
+      "started_at": 1795851717.951523,
+      "key": "3A",
+      "bpm": 120.94999999999999,
+      "deeper_states_play_count": 9,
+      "colours": {
+        "key": "#e6e639",
+        "play_count": "#f24524",
+        "artist": "#e65a50",
         "bpm": "#50e686"
       }
     }
