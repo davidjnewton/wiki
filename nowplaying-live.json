@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795876566,
+  "updated_at": 1795876872,
   "tracks": [
     {
       "artist": "ID",
@@ -1488,6 +1488,21 @@
         "key": "#39e68f",
         "play_count": "#65717b",
         "artist": "#65717b",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Gorge",
+      "title": "Osane (Original Mix)",
+      "label": "Sudbeat",
+      "started_at": 1795876872.6983173,
+      "key": "6A",
+      "bpm": 121.9912,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f2d2",
+        "artist": "#50e6d7",
         "bpm": "#50e680"
       }
     }
