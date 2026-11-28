@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795898106,
+  "updated_at": 1795898397,
   "tracks": [
     {
       "artist": "ID",
@@ -2643,6 +2643,21 @@
         "key": "#8fe639",
         "play_count": "#24f2d2",
         "artist": "#508ee6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Kasey Taylor, Amega",
+      "title": "Impressions (Remixes) (Ruede Hagelstein Remix)",
+      "label": "Vapour",
+      "started_at": 1795898397.1082065,
+      "key": "4A",
+      "bpm": 122.975,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#50e6b6",
         "bpm": "#50e67a"
       }
     }
