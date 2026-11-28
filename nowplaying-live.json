@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795854501,
+  "updated_at": 1795854799,
   "tracks": [
     {
       "artist": "ID",
@@ -364,6 +364,21 @@
         "play_count": "#2424f2",
         "artist": "#e6d750",
         "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Luciano Pelliza",
+      "title": "Paranormal (Original Mix)",
+      "label": "Venture Records",
+      "started_at": 1795854799.2965736,
+      "key": "4A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#50e682",
+        "bpm": "#50e680"
       }
     }
   ],
