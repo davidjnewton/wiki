@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795863323,
+  "updated_at": 1795863611,
   "tracks": [
     {
       "artist": "ID",
@@ -799,6 +799,21 @@
         "play_count": "#65f224",
         "artist": "#50e682",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Gai Barone, Luke Brancaccio",
+      "title": "She Just (Original Mix)",
+      "label": "Selador",
+      "started_at": 1795863611.2720108,
+      "key": "8A",
+      "bpm": 123.008,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#398fe6",
+        "play_count": "#2424f2",
+        "artist": "#5f50e6",
+        "bpm": "#50e67a"
       }
     }
   ],
