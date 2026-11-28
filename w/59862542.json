@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795875993,
+  "updated_at": 1795876260,
   "tracks": [
     {
       "artist": "ID",
@@ -1458,6 +1458,21 @@
         "key": "#39e68f",
         "play_count": "#24f2d2",
         "artist": "#50e687",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Matthew Sona",
+      "title": "Elektricity (Original Mix)",
+      "label": "Balance Music",
+      "started_at": 1795876260.62349,
+      "key": "6A",
+      "bpm": 121.9912,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f247",
+        "artist": "#50e6bb",
         "bpm": "#50e680"
       }
     }
