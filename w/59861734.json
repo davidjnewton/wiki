@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795851717,
+  "updated_at": 1795852038,
   "tracks": [
     {
       "artist": "ID",
@@ -229,6 +229,21 @@
         "play_count": "#f24524",
         "artist": "#e65a50",
         "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Dot",
+      "title": "Copacabana (Chiari Remix)",
+      "label": "Saycog",
+      "started_at": 1795852038.9928167,
+      "key": "4A",
+      "bpm": 120.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#e150e6",
+        "bpm": "#50e68c"
       }
     }
   ],
