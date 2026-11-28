@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795900479,
+  "updated_at": 1795900596,
   "tracks": [
     {
       "artist": "ID",
@@ -2763,6 +2763,21 @@
         "key": "#39e6e6",
         "play_count": "#f0f224",
         "artist": "#e65550",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Aman Anand",
+      "title": "Lava (Original Mix)",
+      "label": "WARPP",
+      "started_at": 1795900596.3771257,
+      "key": "7A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#b1f224",
+        "artist": "#e650c8",
         "bpm": "#50e680"
       }
     }
