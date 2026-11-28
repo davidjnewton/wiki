@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795854799,
+  "updated_at": 1795855066,
   "tracks": [
     {
       "artist": "ID",
@@ -378,6 +378,21 @@
         "key": "#8fe639",
         "play_count": "#24f2d2",
         "artist": "#50e682",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Digital Mess",
+      "title": "Mind Fluctuation",
+      "label": "Mango Alley",
+      "started_at": 1795855066.3173153,
+      "key": "4A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#65f224",
+        "artist": "#5080e6",
         "bpm": "#50e680"
       }
     }
