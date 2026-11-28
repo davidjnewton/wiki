@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795896950,
+  "updated_at": 1795897265,
   "tracks": [
     {
       "artist": "ID",
@@ -2583,6 +2583,21 @@
         "key": "#8fe639",
         "play_count": "#b1f224",
         "artist": "#e67650",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Leonardo Britto",
+      "title": "Quantum (Original Mix)",
+      "label": "YOMO",
+      "started_at": 1795897265.9702628,
+      "key": "4A",
+      "bpm": 123.00859999999999,
+      "deeper_states_play_count": 5,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#f0f224",
+        "artist": "#5093e6",
         "bpm": "#50e67a"
       }
     }
