@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795890569,
+  "updated_at": 1795890899,
   "tracks": [
     {
       "artist": "ID",
@@ -2238,6 +2238,21 @@
         "key": "#b2e67e",
         "play_count": "#24f2d2",
         "artist": "#50e6c8",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Lost Desert, Mauro Masi",
+      "title": "Move Cold (Original Mix)",
+      "label": "Souksonic",
+      "started_at": 1795890899.2242346,
+      "key": "4B",
+      "bpm": 122.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#b2e67e",
+        "play_count": "#24f2d2",
+        "artist": "#e67350",
         "bpm": "#50e680"
       }
     }
