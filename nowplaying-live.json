@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795866119,
+  "updated_at": 1795866353,
   "tracks": [
     {
       "artist": "ID",
@@ -948,6 +948,21 @@
         "key": "#b27ee6",
         "play_count": "#f2c024",
         "artist": "#c0e650",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Thab De Soul",
+      "title": "Vultures (Original Mix)",
+      "label": "WeAboutMusic",
+      "started_at": 1795866353.581254,
+      "key": "9B",
+      "bpm": 122.99999999999999,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#7e7ee6",
+        "play_count": "#b1f224",
+        "artist": "#6e50e6",
         "bpm": "#50e67a"
       }
     }

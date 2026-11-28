@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795865870,
+  "updated_at": 1795866353,
   "tracks": [
     {
       "artist": "ID",
@@ -933,6 +933,36 @@
         "key": "#39e6e6",
         "play_count": "#24f2d2",
         "artist": "#e67150",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Wassu",
+      "title": "Aerobic (Remixes) (Bodai Remix)",
+      "label": "Musique de Lune",
+      "started_at": 1795866119.556193,
+      "key": "10B",
+      "bpm": 123.0,
+      "deeper_states_play_count": 6,
+      "colours": {
+        "key": "#b27ee6",
+        "play_count": "#f2c024",
+        "artist": "#c0e650",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Thab De Soul",
+      "title": "Vultures (Original Mix)",
+      "label": "WeAboutMusic",
+      "started_at": 1795866353.581254,
+      "key": "9B",
+      "bpm": 122.99999999999999,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#7e7ee6",
+        "play_count": "#b1f224",
+        "artist": "#6e50e6",
         "bpm": "#50e67a"
       }
     }
