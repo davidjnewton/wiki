@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795860493,
+  "updated_at": 1795860823,
   "tracks": [
     {
       "artist": "ID",
@@ -663,6 +663,21 @@
         "key": "#39e639",
         "play_count": "#24f247",
         "artist": "#e150e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Andre Gazolla, Purple Condor",
+      "title": "Ultraviolet (Original Mix)",
+      "label": "Fluxo",
+      "started_at": 1795860823.968949,
+      "key": "8B",
+      "bpm": 122.0,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#7eb2e6",
+        "play_count": "#24f247",
+        "artist": "#e3e650",
         "bpm": "#50e680"
       }
     }
