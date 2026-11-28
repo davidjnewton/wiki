@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795889099,
+  "updated_at": 1795889372,
   "tracks": [
     {
       "artist": "ID",
@@ -2163,6 +2163,21 @@
         "key": "#3939e6",
         "play_count": "#24f2d2",
         "artist": "#e65f50",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Digital Mess",
+      "title": "Orange Vortex (Original Mix)",
+      "label": "Protagonist Recordings",
+      "started_at": 1795889372.072386,
+      "key": "12B",
+      "bpm": 121.96799999999999,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#e67eb2",
+        "play_count": "#24f247",
+        "artist": "#5080e6",
         "bpm": "#50e680"
       }
     }
