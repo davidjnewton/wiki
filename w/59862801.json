@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795883542,
+  "updated_at": 1795884031,
   "tracks": [
     {
       "artist": "ID",
@@ -1863,6 +1863,36 @@
         "key": "#3939e6",
         "play_count": "#f22424",
         "artist": "#c550e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Yonsh",
+      "title": "Moving Towards",
+      "label": "Mango Alley",
+      "started_at": 1795883776.4703405,
+      "key": "9A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#24f2d2",
+        "artist": "#50e6b4",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Moon Rocket",
+      "title": "Just Me & You (Rework) (Rework)",
+      "label": "Moon Rocket Music",
+      "started_at": 1795884031.5063381,
+      "key": "9A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#65f224",
+        "artist": "#c350e6",
         "bpm": "#50e680"
       }
     }
