@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795855669,
+  "updated_at": 1795856011,
   "tracks": [
     {
       "artist": "ID",
@@ -423,6 +423,21 @@
         "key": "#8fe639",
         "play_count": "#f0f224",
         "artist": "#c5e650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Godash",
+      "title": "Grey Honey (Original Mix)",
+      "label": "MOORPH",
+      "started_at": 1795856011.4421988,
+      "key": "4A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 6,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#f2c024",
+        "artist": "#e650dc",
         "bpm": "#50e680"
       }
     }
