@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795895483,
+  "updated_at": 1795895762,
   "tracks": [
     {
       "artist": "ID",
@@ -2493,6 +2493,21 @@
         "key": "#8fe639",
         "play_count": "#65f224",
         "artist": "#a050e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Redspace, SHERRNX",
+      "title": "Against All Odds (Original Mix)",
+      "label": "RKP",
+      "started_at": 1795895762.801835,
+      "key": "4A",
+      "bpm": 123.00859999999999,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#65f224",
+        "artist": "#e650aa",
         "bpm": "#50e67a"
       }
     }
