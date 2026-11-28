@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795859092,
+  "updated_at": 1795859308,
   "tracks": [
     {
       "artist": "ID",
@@ -588,6 +588,21 @@
         "key": "#39e639",
         "play_count": "#24f2d2",
         "artist": "#e650a7",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Digital Mess, Ivanshee",
+      "title": "Karmic Extension (Original Mix)",
+      "label": "Univack",
+      "started_at": 1795859308.8158336,
+      "key": "5A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 6,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#f2c024",
+        "artist": "#e6a050",
         "bpm": "#50e680"
       }
     }
