@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795883278,
+  "updated_at": 1795883542,
   "tracks": [
     {
       "artist": "ID",
@@ -1848,6 +1848,21 @@
         "key": "#3939e6",
         "play_count": "#f0f224",
         "artist": "#50e69d",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "NEXUS",
+      "title": "Hypnotic Loops 58 (Extended Mix)",
+      "label": "Percue Records",
+      "started_at": 1795883542.4506118,
+      "key": "9A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 11,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#f22424",
+        "artist": "#c550e6",
         "bpm": "#50e680"
       }
     }
