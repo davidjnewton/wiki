@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795857766,
+  "updated_at": 1795858075,
   "tracks": [
     {
       "artist": "ID",
@@ -528,6 +528,21 @@
         "key": "#39e639",
         "play_count": "#24f247",
         "artist": "#c550e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Stavroz",
+      "title": "In Mindibu (Original Mix)",
+      "label": "Moodfamily",
+      "started_at": 1795858075.690504,
+      "key": "5A",
+      "bpm": 121.975,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#b1f224",
+        "artist": "#9850e6",
         "bpm": "#50e680"
       }
     }
