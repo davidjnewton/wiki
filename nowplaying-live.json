@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795873413,
+  "updated_at": 1795873743,
   "tracks": [
     {
       "artist": "ID",
@@ -1323,6 +1323,21 @@
         "key": "#39e68f",
         "play_count": "#24f247",
         "artist": "#e6b150",
+        "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Digital Mess, Forty Cats",
+      "title": "LiDAR (Original Mix)",
+      "label": "Vapour",
+      "started_at": 1795873743.3554537,
+      "key": "6A",
+      "bpm": 120.984,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#b1f224",
+        "artist": "#505fe6",
         "bpm": "#50e686"
       }
     }
