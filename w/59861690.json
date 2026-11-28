@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795850391,
+  "updated_at": 1795850706,
   "tracks": [
     {
       "artist": "ID",
@@ -168,6 +168,21 @@
         "key": "#e68f39",
         "play_count": "#65f224",
         "artist": "#50e653",
+        "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Elliot Moriarty",
+      "title": "Waves (Devrient Remix)",
+      "label": "Keyfound",
+      "started_at": 1795850706.844743,
+      "key": "2A",
+      "bpm": 120.9828,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#24f247",
+        "artist": "#50e676",
         "bpm": "#50e686"
       }
     }
