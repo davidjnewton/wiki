@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795879582,
+  "updated_at": 1795879879,
   "tracks": [
     {
       "artist": "ID",
@@ -1653,6 +1653,21 @@
         "key": "#39e68f",
         "play_count": "#24f247",
         "artist": "#e6be50",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Nightnews",
+      "title": "New World (Incl. Remixes) (Frank Savio Remix)",
+      "label": "Affiliate",
+      "started_at": 1795879879.0479343,
+      "key": "6A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f2d2",
+        "artist": "#e66e50",
         "bpm": "#50e680"
       }
     }
