@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795876872,
+  "updated_at": 1795877151,
   "tracks": [
     {
       "artist": "ID",
@@ -1503,6 +1503,21 @@
         "key": "#39e68f",
         "play_count": "#24f2d2",
         "artist": "#50e6d7",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Digital Mess",
+      "title": "Peppermint",
+      "label": "Mango Alley",
+      "started_at": 1795877151.7235062,
+      "key": "6A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f2d2",
+        "artist": "#5080e6",
         "bpm": "#50e680"
       }
     }
