@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795892360,
+  "updated_at": 1795892654,
   "tracks": [
     {
       "artist": "ID",
@@ -2328,6 +2328,21 @@
         "key": "#8fe639",
         "play_count": "#24f247",
         "artist": "#50e67d",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Michael A",
+      "title": "High Stakes (Original Mix)",
+      "label": "INU",
+      "started_at": 1795892654.4274602,
+      "key": "4A",
+      "bpm": 123.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#508ee6",
         "bpm": "#50e67a"
       }
     }
