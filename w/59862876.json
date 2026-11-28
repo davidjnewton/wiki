@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795886008,
+  "updated_at": 1795886281,
   "tracks": [
     {
       "artist": "ID",
@@ -1998,6 +1998,21 @@
         "key": "#3939e6",
         "play_count": "#24f2d2",
         "artist": "#e66c50",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Yohai Mor",
+      "title": "Chasing Dreams (Kebin Van Reeken Extended Remix)",
+      "label": "Univack",
+      "started_at": 1795886281.7453904,
+      "key": "9A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#65f224",
+        "artist": "#e6b450",
         "bpm": "#50e680"
       }
     }
