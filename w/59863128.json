@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795893254,
+  "updated_at": 1795893860,
   "tracks": [
     {
       "artist": "ID",
@@ -2373,6 +2373,36 @@
         "key": "#8fe639",
         "play_count": "#24f2d2",
         "artist": "#50e658",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Chris Cargo",
+      "title": "Skydiver (Original Mix)",
+      "label": "Atlantic",
+      "started_at": 1795893506.5378354,
+      "key": "4A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#e650a7",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Jiminy Hop, Audiense",
+      "title": "Vibes Of The Life (Extended Mix)",
+      "label": "Thunderlab Collective",
+      "started_at": 1795893860.5858116,
+      "key": "4A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#50e682",
         "bpm": "#50e67a"
       }
     }
