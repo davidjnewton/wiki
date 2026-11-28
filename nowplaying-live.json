@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795877553,
+  "updated_at": 1795877799,
   "tracks": [
     {
       "artist": "ID",
@@ -1548,6 +1548,21 @@
         "key": "#39e68f",
         "play_count": "#65717b",
         "artist": "#65717b",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Luke Brancaccio, Gai Barone",
+      "title": "Letter To Her (Original Mix)",
+      "label": "Lost & Found",
+      "started_at": 1795877799.7968194,
+      "key": "6A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f247",
+        "artist": "#50e655",
         "bpm": "#50e680"
       }
     }
