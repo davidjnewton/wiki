@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795886545,
+  "updated_at": 1795886803,
   "tracks": [
     {
       "artist": "ID",
@@ -2028,6 +2028,21 @@
         "key": "#3939e6",
         "play_count": "#65f224",
         "artist": "#e6c050",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Tomas Garcia",
+      "title": "The Slave I (Digital Mess Reinterpretation)",
+      "label": "Mango Alley",
+      "started_at": 1795886803.7937262,
+      "key": "9A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#b1f224",
+        "artist": "#e6509d",
         "bpm": "#50e680"
       }
     }
