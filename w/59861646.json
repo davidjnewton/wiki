@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795848822,
+  "updated_at": 1795849401,
   "tracks": [
     {
       "artist": "ID",
@@ -93,6 +93,36 @@
         "key": "#e68f39",
         "play_count": "#24f2d2",
         "artist": "#e66250",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Paul Fakos",
+      "title": "Yejamba (Original Mix)",
+      "label": "Vapour Recordings",
+      "started_at": 1795849077.672092,
+      "key": "2B",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 12,
+      "colours": {
+        "key": "#e6b27e",
+        "play_count": "#f22424",
+        "artist": "#50e6c0",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Greenage",
+      "title": "Saints & Sinners (Arnas D Remix)",
+      "label": "Mango Alley",
+      "started_at": 1795849401.7023826,
+      "key": "2B",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#e6b27e",
+        "play_count": "#24f247",
+        "artist": "#aae650",
         "bpm": "#50e680"
       }
     }
