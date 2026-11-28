@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795859308,
+  "updated_at": 1795859620,
   "tracks": [
     {
       "artist": "ID",
@@ -603,6 +603,21 @@
         "key": "#39e639",
         "play_count": "#f2c024",
         "artist": "#e6a050",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Tory Lacroze",
+      "title": "Conga Club (Original Mix)",
+      "label": "Magnitude",
+      "started_at": 1795859620.843794,
+      "key": "5A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 8,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#f26924",
+        "artist": "#50e678",
         "bpm": "#50e680"
       }
     }
