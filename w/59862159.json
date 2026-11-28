@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795864451,
+  "updated_at": 1795864775,
   "tracks": [
     {
       "artist": "ID",
@@ -858,6 +858,21 @@
         "key": "#7ee6e6",
         "play_count": "#f2c024",
         "artist": "#50e6e1",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "PROFF, M.O.S.",
+      "title": "Scarlet Sails (Extended)",
+      "label": "Thunderlab Collective",
+      "started_at": 1795864775.3988743,
+      "key": "7B",
+      "bpm": 123.0,
+      "deeper_states_play_count": 13,
+      "colours": {
+        "key": "#7ee6e6",
+        "play_count": "#f22424",
+        "artist": "#5093e6",
         "bpm": "#50e67a"
       }
     }
