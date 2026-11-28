@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795850706,
+  "updated_at": 1795851027,
   "tracks": [
     {
       "artist": "ID",
@@ -184,6 +184,21 @@
         "play_count": "#24f247",
         "artist": "#50e676",
         "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Carlos Palacio",
+      "title": "Aural In Balance (Char Spinelli Remix)",
+      "label": "Future Avenue",
+      "started_at": 1795851027.8812168,
+      "key": "2A",
+      "bpm": 120.01,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#24f247",
+        "artist": "#98e650",
+        "bpm": "#50e68c"
       }
     }
   ],
