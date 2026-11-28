@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795861055,
+  "updated_at": 1795861409,
   "tracks": [
     {
       "artist": "ID",
@@ -693,6 +693,21 @@
         "key": "#398fe6",
         "play_count": "#24f2d2",
         "artist": "#9de650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Marcovits",
+      "title": "Feeling Love (Extended Mix)",
+      "label": "No Place Like Home",
+      "started_at": 1795861409.028124,
+      "key": "8A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 9,
+      "colours": {
+        "key": "#398fe6",
+        "play_count": "#f24524",
+        "artist": "#50e6e1",
         "bpm": "#50e680"
       }
     }
