@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795895996,
+  "updated_at": 1795896257,
   "tracks": [
     {
       "artist": "ID",
@@ -2523,6 +2523,21 @@
         "key": "#8fe639",
         "play_count": "#f0f224",
         "artist": "#bb50e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Cigma, Aldor",
+      "title": "Andromeda (Original Mix)",
+      "label": "PinkStar Black",
+      "started_at": 1795896257.850249,
+      "key": "4A",
+      "bpm": 122.9832,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f247",
+        "artist": "#50e67b",
         "bpm": "#50e67a"
       }
     }
