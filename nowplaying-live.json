@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795886281,
+  "updated_at": 1795886545,
   "tracks": [
     {
       "artist": "ID",
@@ -2013,6 +2013,21 @@
         "key": "#3939e6",
         "play_count": "#65f224",
         "artist": "#e6b450",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Abaze",
+      "title": "Aleteia (Extended Mix)",
+      "label": "PURRFECTION",
+      "started_at": 1795886545.771578,
+      "key": "9A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#65f224",
+        "artist": "#e6c050",
         "bpm": "#50e680"
       }
     }
