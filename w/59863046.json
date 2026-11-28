@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795890899,
+  "updated_at": 1795891409,
   "tracks": [
     {
       "artist": "ID",
@@ -2253,6 +2253,36 @@
         "key": "#b2e67e",
         "play_count": "#24f2d2",
         "artist": "#e67350",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Forty Cats",
+      "title": "Props",
+      "label": "Mango Alley",
+      "started_at": 1795891109.245308,
+      "key": "4A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#50b1e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Analog Jungs",
+      "title": "Solar Symphony",
+      "label": "Mango Alley",
+      "started_at": 1795891409.2817304,
+      "key": "4A",
+      "bpm": 122.0,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f247",
+        "artist": "#e65087",
         "bpm": "#50e680"
       }
     }
