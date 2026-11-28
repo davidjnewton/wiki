@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795875171,
+  "updated_at": 1795875420,
   "tracks": [
     {
       "artist": "ID",
@@ -1413,6 +1413,21 @@
         "key": "#39e68f",
         "play_count": "#24f2d2",
         "artist": "#a750e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Larsh",
+      "title": "Twister",
+      "label": "Mango Alley",
+      "started_at": 1795875420.5482914,
+      "key": "6A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#65f224",
+        "artist": "#e650af",
         "bpm": "#50e680"
       }
     }
