@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795875420,
+  "updated_at": 1795875705,
   "tracks": [
     {
       "artist": "ID",
@@ -1428,6 +1428,21 @@
         "key": "#39e68f",
         "play_count": "#65f224",
         "artist": "#e650af",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "PAUL (AR) & EANP",
+      "title": "Insane (Hobin Rude Remix)",
+      "label": "Mango Alley",
+      "started_at": 1795875705.5869849,
+      "key": "6A",
+      "bpm": 121.968,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f247",
+        "artist": "#a050e6",
         "bpm": "#50e680"
       }
     }
