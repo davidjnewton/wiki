@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795897833,
+  "updated_at": 1795898106,
   "tracks": [
     {
       "artist": "ID",
@@ -2628,6 +2628,21 @@
         "key": "#8fe639",
         "play_count": "#b1f224",
         "artist": "#e650d2",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Michael A",
+      "title": "Portal (Original Mix)",
+      "label": "Genesis Music",
+      "started_at": 1795898106.0704014,
+      "key": "4A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f2d2",
+        "artist": "#508ee6",
         "bpm": "#50e67a"
       }
     }
