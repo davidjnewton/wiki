@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795884544,
+  "updated_at": 1795884862,
   "tracks": [
     {
       "artist": "ID",
@@ -1923,6 +1923,21 @@
         "key": "#3939e6",
         "play_count": "#b1f224",
         "artist": "#e650c0",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Ricky Ryan, Maze 28 ",
+      "title": "Free Spirit (Kyotto Dark Mix)",
+      "label": "Electronic Groove",
+      "started_at": 1795884862.6088274,
+      "key": "9A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#24f2d2",
+        "artist": "#cde650",
         "bpm": "#50e680"
       }
     }
