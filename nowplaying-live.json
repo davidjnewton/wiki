@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795870275,
+  "updated_at": 1795870536,
   "tracks": [
     {
       "artist": "ID",
@@ -1158,6 +1158,21 @@
         "key": "#e68f39",
         "play_count": "#f29224",
         "artist": "#e65071",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Digital Mess",
+      "title": "Convergence",
+      "label": "Mango Alley",
+      "started_at": 1795870536.01906,
+      "key": "2A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#24f2d2",
+        "artist": "#5080e6",
         "bpm": "#50e67a"
       }
     }
