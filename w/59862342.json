@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795869917,
+  "updated_at": 1795870275,
   "tracks": [
     {
       "artist": "ID",
@@ -1143,6 +1143,21 @@
         "key": "#e63939",
         "play_count": "#24f247",
         "artist": "#50e6c8",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "JFR",
+      "title": "Landing In BA (Original Mix)",
+      "label": "Synthesis Recordings",
+      "started_at": 1795870274.9939294,
+      "key": "2A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 7,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#f29224",
+        "artist": "#e65071",
         "bpm": "#50e67a"
       }
     }
