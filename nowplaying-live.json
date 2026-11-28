@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795880170,
+  "updated_at": 1795880389,
   "tracks": [
     {
       "artist": "ID",
@@ -1683,6 +1683,21 @@
         "key": "#7e7ee6",
         "play_count": "#65717b",
         "artist": "#65717b",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Rokazer",
+      "title": "Nizami",
+      "label": "Mango Alley",
+      "started_at": 1795880389.0835595,
+      "key": "9A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#24f247",
+        "artist": "#b650e6",
         "bpm": "#50e680"
       }
     }
