@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795854076,
+  "updated_at": 1795854436,
   "tracks": [
     {
       "artist": "ID",
@@ -348,6 +348,21 @@
         "key": "#8fe639",
         "play_count": "#24f247",
         "artist": "#7850e6",
+        "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Ruben Karapetyan & Mango",
+      "title": "Golden Age (Anthony Pappa & Jamie Stevens Remix)",
+      "label": "Mango Alley",
+      "started_at": 1795854436.2546952,
+      "key": "4A",
+      "bpm": 120.9996,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#2424f2",
+        "artist": "#e6d750",
         "bpm": "#50e686"
       }
     }
