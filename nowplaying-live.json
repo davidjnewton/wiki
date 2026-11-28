@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795872231,
+  "updated_at": 1795872513,
   "tracks": [
     {
       "artist": "ID",
@@ -1264,6 +1264,21 @@
         "play_count": "#24f247",
         "artist": "#a050e6",
         "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Luke Brancaccio",
+      "title": "Platipus Archive 14 (TD - Sleepy Butterfly)",
+      "label": "Platipus",
+      "started_at": 1795872513.2273865,
+      "key": "5A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e639",
+        "play_count": "#24f2d2",
+        "artist": "#7350e6",
+        "bpm": "#50e680"
       }
     }
   ],
