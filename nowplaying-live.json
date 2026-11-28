@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795894979,
+  "updated_at": 1795895249,
   "tracks": [
     {
       "artist": "ID",
@@ -2464,6 +2464,21 @@
         "play_count": "#f22424",
         "artist": "#e150e6",
         "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "John Fisherman",
+      "title": "Atlantic Wave (VIBE BESIDE Remix)",
+      "label": "Inspired Virtu",
+      "started_at": 1795895249.7434363,
+      "key": "4A",
+      "bpm": 123.97500000000001,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#b1f224",
+        "artist": "#50e650",
+        "bpm": "#50e674"
       }
     }
   ],
