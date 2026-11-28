@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795894427,
+  "updated_at": 1795894979,
   "tracks": [
     {
       "artist": "ID",
@@ -2433,6 +2433,36 @@
         "key": "#8fe639",
         "play_count": "#24f247",
         "artist": "#9150e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Second Sine, Fonarev",
+      "title": "Love Is Wise Hatred Is Foolish (Luis Damora Remix)",
+      "label": "Digital Emotions",
+      "started_at": 1795894655.675707,
+      "key": "4A",
+      "bpm": 123.0,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f247",
+        "artist": "#e69b50",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Jamie Stevens",
+      "title": "Stuck On A Feeling (Original Mix)",
+      "label": "Meanwhile",
+      "started_at": 1795894979.7134118,
+      "key": "4A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 10,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#f22424",
+        "artist": "#e150e6",
         "bpm": "#50e67a"
       }
     }
