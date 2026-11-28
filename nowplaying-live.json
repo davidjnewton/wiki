@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795899525,
+  "updated_at": 1795899795,
   "tracks": [
     {
       "artist": "ID",
@@ -2718,6 +2718,21 @@
         "key": "#7ee6e6",
         "play_count": "#f0f224",
         "artist": "#e6e350",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Kyotto",
+      "title": "Trigger",
+      "label": "Mango Alley",
+      "started_at": 1795899795.2807157,
+      "key": "7A",
+      "bpm": 121.9922,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#2424f2",
+        "artist": "#506ee6",
         "bpm": "#50e680"
       }
     }
