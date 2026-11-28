@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795894154,
+  "updated_at": 1795894427,
   "tracks": [
     {
       "artist": "ID",
@@ -2418,6 +2418,21 @@
         "key": "#8fe639",
         "play_count": "#65f224",
         "artist": "#50e65a",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Cesar Herresuelo",
+      "title": "The Side (Original Mix)",
+      "label": "YOMO",
+      "started_at": 1795894427.6467888,
+      "key": "4A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 2,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#24f247",
+        "artist": "#9150e6",
         "bpm": "#50e67a"
       }
     }
