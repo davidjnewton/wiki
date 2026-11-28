@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795868456,
+  "updated_at": 1795868735,
   "tracks": [
     {
       "artist": "ID",
@@ -1068,6 +1068,21 @@
         "key": "#e63939",
         "play_count": "#24f2d2",
         "artist": "#e6bb50",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Reskide, Last Passenger",
+      "title": "Dream Wave (Original Mix)",
+      "label": "Melody Of the Soul",
+      "started_at": 1795868735.8272865,
+      "key": "1A",
+      "bpm": 123.0004,
+      "deeper_states_play_count": 0,
+      "colours": {
+        "key": "#e63939",
+        "play_count": "#2424f2",
+        "artist": "#e650c8",
         "bpm": "#50e67a"
       }
     }
