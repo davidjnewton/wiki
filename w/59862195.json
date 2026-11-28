@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795865345,
+  "updated_at": 1795865870,
   "tracks": [
     {
       "artist": "ID",
@@ -903,6 +903,36 @@
         "key": "#39e6e6",
         "play_count": "#24f247",
         "artist": "#e67650",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Tryger, Digital Mess",
+      "title": "Ursa Major (Digital Mess Extended Remix)",
+      "label": "SkyTop",
+      "started_at": 1795865603.4902332,
+      "key": "7A",
+      "bpm": 123.00859999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#24f2d2",
+        "artist": "#e650a7",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Michael Bennett",
+      "title": "Osaka (Original Mix)",
+      "label": "Zero Tolerance",
+      "started_at": 1795865870.5233157,
+      "key": "7A",
+      "bpm": 122.99999999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e6e6",
+        "play_count": "#24f2d2",
+        "artist": "#e67150",
         "bpm": "#50e67a"
       }
     }
