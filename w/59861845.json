@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795855066,
+  "updated_at": 1795855372,
   "tracks": [
     {
       "artist": "ID",
@@ -393,6 +393,21 @@
         "key": "#8fe639",
         "play_count": "#65f224",
         "artist": "#5080e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Michael A",
+      "title": "Sunbeam (Extended Mix)",
+      "label": "Univack",
+      "started_at": 1795855372.359293,
+      "key": "4A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 6,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#f2c024",
+        "artist": "#508ee6",
         "bpm": "#50e680"
       }
     }
