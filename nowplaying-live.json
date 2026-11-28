@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795849986,
+  "updated_at": 1795850391,
   "tracks": [
     {
       "artist": "ID",
@@ -154,6 +154,21 @@
         "play_count": "#24f247",
         "artist": "#50e6aa",
         "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Yonathan, Dowle",
+      "title": "Bailas (Original Mix)",
+      "label": "Cafe De Anatolia",
+      "started_at": 1795850391.812821,
+      "key": "2A",
+      "bpm": 120.94999999999999,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#65f224",
+        "artist": "#50e653",
+        "bpm": "#50e686"
       }
     }
   ],
