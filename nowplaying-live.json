@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795847425,
+  "updated_at": 1795847646,
   "tracks": [
     {
       "artist": "ID",
@@ -18,6 +18,21 @@
         "key": "#e68f39",
         "play_count": "#65717b",
         "artist": "#65717b",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Trevor Rose, Laura Rose",
+      "title": "Deep Bot (Original Mix)",
+      "label": "Zero Tolerance",
+      "started_at": 1795847646.4977922,
+      "key": "2A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#e68f39",
+        "play_count": "#24f2d2",
+        "artist": "#50e655",
         "bpm": "#50e680"
       }
     }
