@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795890326,
+  "updated_at": 1795890569,
   "tracks": [
     {
       "artist": "ID",
@@ -2223,6 +2223,21 @@
         "key": "#e63939",
         "play_count": "#24f2d2",
         "artist": "#dc50e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "KENAN SAVRUN & SINAN ARSAN",
+      "title": "Penumbra (Hot TuneiK Alternative Mix)*",
+      "label": "Mango Alley",
+      "started_at": 1795890569.19192,
+      "key": "4B",
+      "bpm": 122.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#b2e67e",
+        "play_count": "#24f2d2",
+        "artist": "#50e6c8",
         "bpm": "#50e680"
       }
     }
