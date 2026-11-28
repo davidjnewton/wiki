@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795884277,
+  "updated_at": 1795884544,
   "tracks": [
     {
       "artist": "ID",
@@ -1908,6 +1908,21 @@
         "key": "#3939e6",
         "play_count": "#65f224",
         "artist": "#96e650",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "GMJ, Matter",
+      "title": "Skyline Depth (Original Mix)",
+      "label": "Balance Music",
+      "started_at": 1795884544.5646417,
+      "key": "9A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#b1f224",
+        "artist": "#e650c0",
         "bpm": "#50e680"
       }
     }
