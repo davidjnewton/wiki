@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "on_air": false,
+  "on_air": true,
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795847406,
+  "updated_at": 1795847425,
   "tracks": [
     {
       "artist": "ID",
