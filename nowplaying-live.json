@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795869065,
+  "updated_at": 1795869353,
   "tracks": [
     {
       "artist": "ID",
@@ -1098,6 +1098,21 @@
         "key": "#e63939",
         "play_count": "#65f224",
         "artist": "#5062e6",
+        "bpm": "#50e67a"
+      }
+    },
+    {
+      "artist": "Ellroy",
+      "title": "Nuances (Original Mix)",
+      "label": "Tiny Lamp",
+      "started_at": 1795869353.9018621,
+      "key": "1A",
+      "bpm": 123.0,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#e63939",
+        "play_count": "#24f2d2",
+        "artist": "#8a50e6",
         "bpm": "#50e67a"
       }
     }
