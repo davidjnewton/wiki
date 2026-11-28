@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795873743,
+  "updated_at": 1795874001,
   "tracks": [
     {
       "artist": "ID",
@@ -1339,6 +1339,21 @@
         "play_count": "#b1f224",
         "artist": "#505fe6",
         "bpm": "#50e686"
+      }
+    },
+    {
+      "artist": "Kamilo Sanclemente, Pablo Arbelaez",
+      "title": "Croton (Original Mix)",
+      "label": "Balance",
+      "started_at": 1795874001.396728,
+      "key": "6A",
+      "bpm": 121.44591,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#b1f224",
+        "artist": "#bb50e6",
+        "bpm": "#50e683"
       }
     }
   ],
