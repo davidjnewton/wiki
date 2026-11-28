@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795874859,
+  "updated_at": 1795875171,
   "tracks": [
     {
       "artist": "ID",
@@ -1398,6 +1398,21 @@
         "key": "#39e68f",
         "play_count": "#f0f224",
         "artist": "#508ee6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Mattias Herrera",
+      "title": "Lumara (Extended Mix)",
+      "label": "The Soundgarden",
+      "started_at": 1795875171.5151646,
+      "key": "6A",
+      "bpm": 121.968,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#39e68f",
+        "play_count": "#24f2d2",
+        "artist": "#a750e6",
         "bpm": "#50e680"
       }
     }
