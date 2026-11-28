@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795885168,
+  "updated_at": 1795885669,
   "tracks": [
     {
       "artist": "ID",
@@ -1953,6 +1953,36 @@
         "key": "#8f39e6",
         "play_count": "#24f2d2",
         "artist": "#9b50e6",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Nantiel",
+      "title": "Forgotten (Original Mix)",
+      "label": "DLK",
+      "started_at": 1795885375.6618438,
+      "key": "9A",
+      "bpm": 121.9914,
+      "deeper_states_play_count": 3,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#65f224",
+        "artist": "#e6d950",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Meeting Molly",
+      "title": "Elementary (NOIYSE PROJECT Remix)",
+      "label": "Mango Alley",
+      "started_at": 1795885669.686254,
+      "key": "9A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 1,
+      "colours": {
+        "key": "#3939e6",
+        "play_count": "#24f2d2",
+        "artist": "#e6c350",
         "bpm": "#50e680"
       }
     }
