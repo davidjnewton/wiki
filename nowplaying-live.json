@@ -4,7 +4,7 @@
   "episode_ended": false,
   "episode_title": "DEEPER STATES EPISODE 443-444 36HR SPECIAL",
   "episode_started_at": 1795847200.5638728,
-  "updated_at": 1795856617,
+  "updated_at": 1795857037,
   "tracks": [
     {
       "artist": "ID",
@@ -468,6 +468,21 @@
         "key": "#8fe639",
         "play_count": "#24f2d2",
         "artist": "#e65087",
+        "bpm": "#50e680"
+      }
+    },
+    {
+      "artist": "Dmitry Molosh",
+      "title": "Bird Flight (Original Mix)",
+      "label": "Proton",
+      "started_at": 1795857037.5676339,
+      "key": "4A",
+      "bpm": 121.99199999999999,
+      "deeper_states_play_count": 4,
+      "colours": {
+        "key": "#8fe639",
+        "play_count": "#b1f224",
+        "artist": "#50e698",
         "bpm": "#50e680"
       }
     }
